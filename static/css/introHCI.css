@@ -20,7 +20,10 @@ body {
 	position: relative;
 	background: none;
 }
-
+.project{
+     margin-left: 40px;
+     margin-right: 40px;
+}
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
